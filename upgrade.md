@@ -11,7 +11,7 @@ Upgrading Portworx Enterprise is performed as a rolling upgrade.
 On each node in the cluster , please execute **'pxctl upgrade'** command as shown below.
 
 ```
-[root@PX-SM2 ~]# pxctl upgrade px-enterprise
+[root@PX-SM2 ~]# pxctl upgrade px
 Upgrading px-enterprise to the latest version
 Downloading latest PX enterprise layers...
 Pulling from portworx/px-enterprise
